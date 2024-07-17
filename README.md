@@ -16,7 +16,7 @@ Proceso de selección personal integrando la IA.
 <!--![Foto de una lámina de la presentación](/imagenes/3.jpg)-->
 
 
-<img src="/imagenes/3.jpg" alt="Foto de una lámina de la presentación" width="600" height="300">
+<img src="/imagenes/3.jpg" alt="Foto de una lámina de la presentación" width="650" height="300">
 
 
 **Integrantes:**
