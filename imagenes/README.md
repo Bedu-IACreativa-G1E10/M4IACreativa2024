@@ -45,7 +45,9 @@ Este artículo trata sobre la inteligencia artificial (IA) y su impacto en los r
 
 ### 4. Ejemplos de IA en RRHH
 
-![Imagen HR AI](/imagenes/HR%20AI_02.jpg)
+<!--![Imagen HR AI](/imagenes/HR%20AI_02.jpg)-->
+
+<img src="/imagenes/HR%20AI_02.jpg" alt="Imagen HR AI 02" width="600" height="300">
 
 **Aplicaciones de la IA en RRHH:**
 - Selección de candidatos
