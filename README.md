@@ -13,7 +13,7 @@ Proceso de selección personal integrando la IA.
 
 # Creación de Contenido con ChatGPT
 
-![Foto de una lámina de la presentación](/imagenes/3.jpg)
+<!--![Foto de una lámina de la presentación](/imagenes/3.jpg)-->
 
 
 <img src="/imagenes/3.jpg" alt="Foto de una lámina de la presentación" width="600" height="300">
