@@ -35,11 +35,11 @@ Quiero que todo el texto en formato  Markdown me lo vas a entregar en  un bloque
 
 <img src="/imagenes/Rewriting Content in Markdown Format 1- Claude.png" alt="Claude 3.5 ph3" width="300" height="500">
 
-
-Le pase el borrador inicial de este documento y no lo proceso hasta que le indique poniendolo entre comillas.
+Finalmente decidi darle el borrador inicial de este documento y no lo proceso.
+Hasta que le indique antecediendolo por un ***=***  y poniendolo entre comillas.
 
 ```
-Texto a formatear ="DEcidi partir el trabajo en diferentes tareas y cada una se la di mejor a Antropic Claude 3.5.
+Texto a formatear ="Decidío partir el trabajo en diferentes tareas y cada una se la di mejor a Antropic Claude 3.5.
  <PPROMPT>
 Eres un experto usuario de github y de Mardown, reescribe el contenido del texto en formato Markdown. Estan definidas entre parentesis las ligas a archivos o folder que quiero me des en formato markdown, agrega una diagonal al principio del folder o archivo como se te solicita. Da el formato de Markdown que haga sobre salir nuestro proyecto frente a nuestros compañeros.
 TEXTO a FORMATEAR: 
@@ -75,8 +75,10 @@ REsulto en mejoro formato y ligas funcionales.
 Le pedi una vez mas que me diera formato a las lineas lee." 
 
 ```
+<img src="/imagenes/Rewriting Content in Markdown Format 5- Claude.png" alt="Claude 3.5 ph3" width="300" height="500">
 
-```
+Ya picados con las IA le pedi que cambiará las etiquetas de <código> por el simil de markdoen y se me desorganizó todo. Esto es un proceso  de prueba y error todavía.
+
 ## Conclusiones
 
 El proceso iterativo con Claude 3.5 permitió mejorar progresivamente el formato y la estructura del contenido, demostrando la importancia de la retroalimentación y la claridad en las instrucciones al trabajar con IA para la creación de contenido.
