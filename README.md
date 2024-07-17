@@ -36,7 +36,7 @@ Aplicar los conceptos aprendidos para la creación de contenido web, de marketin
 
 ## Proceso de Trabajo
 
-1. [**Exploración previa**](/exploracion.md)
+1. [**Exploración previa**](/imagenes/)
 2. [**Draft de contenido**](drafts)
 3. [**Revisiones**](/revisiones/)
 4. [**Re-writing (Markdown)**](/RE-writing.md)
