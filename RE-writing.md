@@ -10,7 +10,7 @@ Eres un experto usuario de GitHub y de Markdown, reescribe el contenido del text
 ```
 ### Resultado Inicial
 
-<img src="/imagenes/Rewriting Content in Markdown Format 2- Claude.png" alt="Claude 3.5 ph1" width="300" height="500">
+<img src="/imagenes/Rewriting Content in Markdown Format 2- Claude.png" alt="Claude 3.5 ph1" width="400" height="600">
 
 Se le olvidó darme el resultado en un campo de código. Si no le digo, se olvida.
 
@@ -20,7 +20,7 @@ Siguiendo igual con el formato markdown dale formato a este texto:
 ```
 ### Resultado Mejorado
 
-<img src="/imagenes/Rewriting Content in Markdown Format 3- Claude.png" alt="Claude 3.5 ph2" width="300" height="500">
+<img src="/imagenes/Rewriting Content in Markdown Format 3- Claude.png" alt="Claude 3.5 ph2" width="400" height="600">
 
 Resultó en mejor formato y ligas funcionales.
 
@@ -33,7 +33,7 @@ Este texto que te voy a dar. Cuando vez una etiwueta imagen colocal una liga de 
 Quiero que todo el texto en formato  Markdown me lo vas a entregar en  un bloque de codigo.
 ```
 
-<img src="/imagenes/Rewriting Content in Markdown Format 1- Claude.png" alt="Claude 3.5 ph3" width="300" height="500">
+<img src="/imagenes/Rewriting Content in Markdown Format 1- Claude.png" alt="Claude 3.5 ph3" width="400" height="600">
 
 Finalmente decidi darle el borrador inicial de este documento y no lo proceso.
 Hasta que le indique antecediendolo por un ***=***  y poniendolo entre comillas.
@@ -75,7 +75,7 @@ REsulto en mejoro formato y ligas funcionales.
 Le pedi una vez mas que me diera formato a las lineas lee." 
 
 ```
-<img src="/imagenes/Rewriting Content in Markdown Format 5- Claude.png" alt="Claude 3.5 ph3" width="300" height="500">
+<img src="/imagenes/Rewriting Content in Markdown Format 5- Claude.png" alt="Claude 3.5 ph3" width="400" height="600">
 
 Ya picados con las IA le pedi que cambiará las etiquetas de <código> por el simil de markdoen y se me desorganizó todo. Esto es un proceso  de prueba y error todavía.
 
