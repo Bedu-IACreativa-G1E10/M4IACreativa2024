@@ -15,6 +15,10 @@ Proceso de selección personal integrando la IA.
 
 ![Foto de una lámina de la presentación](/imagenes/3.jpg)
 
+
+<img src="/imagenes/3.jpg" alt="Foto de una lámina de la presentación" width="100" height="250">
+
+
 **Integrantes:**
 - Ariadne Torres Torres 
 - Christian Meza
