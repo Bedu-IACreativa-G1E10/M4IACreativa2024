@@ -15,6 +15,8 @@
 Este artículo trata sobre la inteligencia artificial (IA) y su impacto en los recursos humanos (RRHH).
 
 **Puntos clave:**
+
+![Imagen HR AI](/imagenes/HR%20AI_06.jpg)
 - La IA puede automatizar tareas repetitivas y liberar a los profesionales de RRHH para trabajos más estratégicos.
 - Ayuda a tomar mejores decisiones basadas en datos, como la selección de candidatos y la gestión del rendimiento.
 - Mejora la experiencia del empleado al proporcionar servicios personalizados y automatizar tareas.
@@ -29,6 +31,8 @@ Este artículo trata sobre la inteligencia artificial (IA) y su impacto en los r
 
 ### 3. Herramientas de IA para RRHH
 
+![Imagen HR AI](/imagenes/HR%20AI_01.png)
+
 **Categorías de herramientas:**
 - Formación y desarrollo: eduMe AI, Effy AI
 - Selección y reclutamiento: Entelo, Fountain AI
@@ -37,6 +41,8 @@ Este artículo trata sobre la inteligencia artificial (IA) y su impacto en los r
 - Programación y gestión de la fuerza laboral: Quinyx, Skedulo Puls
 
 ### 4. Ejemplos de IA en RRHH
+
+![Imagen HR AI](/imagenes/HR%20AI_02.jpg)
 
 **Aplicaciones de la IA en RRHH:**
 - Selección de candidatos
